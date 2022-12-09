@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: T96 Parameters Downloader
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Gecášek
+    email: daniel.gecasek@tuke.sk
+    affiliation: Technical University of Košice
+    orcid: 'https://orcid.org/0000-0001-7463-6229'
+repository-code: >-
+  https://github.com/COR-Cut-off-rigidity/T96-Parameters-Downloader
+license: GPL-3.0
+version: '1.0'
+date-released: '2022-10-05'
